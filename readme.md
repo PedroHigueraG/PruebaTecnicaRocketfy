@@ -12,7 +12,7 @@ Funciona de forma manual, no se implementó ejecución automática ni notificaci
 
 ### Cargar la BD
 
-Se debe realizar el cargue de información en una base de datos de MongoDB, para este caso se usó MongoDB Compass para importar el archivo csv a la base de datos.
+Se debe realizar el cargue de información en una base de datos de MongoDB, para este caso se usó MongoDB Compass para importar el archivo csv a la base de datos. Una vez se haya cargado, se debe modificar el parámetro "uri" del archivo "readDB.py".
 
 ### Descargar el proyecto
 
